@@ -13,7 +13,7 @@
 .gif {
   height: 20rem;
   width: 100%;
-  background-image: url(images/giphy.gif);
+  background-image: url(giphy.gif);
   background-repeat: no-repeat; /* Prevent background image from repeating */
   margin: auto;
   transform: scale(0.5);
